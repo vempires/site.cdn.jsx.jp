@@ -3,7 +3,7 @@
 // An empty sport link uses the all-sports link.
 return array (
   'all-sports' => 'https://datumfan.com/go/sports/',
-  'high-school-football' => 'https://datumfan.com/go/high-school-football/',
+  'high-school-football' => 'https://streamsreddit.com/hs-football/',
   'college-football' => 'https://datumfan.com/go/college-football/',
   'nfl' => 'https://datumfan.com/go/nfl/',
   'college-basketball' => 'https://datumfan.com/go/college-basketball/',
